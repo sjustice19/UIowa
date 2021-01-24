@@ -1,0 +1,1 @@
+This folder contains R code used to produce the results in the ICHE paper. The ca_hospital_summary.R script prepares a monthly summary of hospitals in California for use in the network autocorrelation model.
